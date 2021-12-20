@@ -8,6 +8,7 @@ Almost all the images are downloaded directly from [Pixiv](https://www.pixiv.net
 
 Some exceptions are listed below:
 
-- [766340.png](/766340.png) is from 'Afterschool of the 5th Year' artbook of artist [Kantoku](https://www.pixiv.net/en/users/1565632)
-- [718203.png](/718203.png) was taken from [Kyouou Ena](https://www.pixiv.net/en/users/4608546) but the Pixiv link is now broken
-- [tomori.jpg](/tomori.jpg) is a screenshot taken from the anime [Charlotte](https://charlotte.fandom.com/wiki/Charlotte_Wiki)
+- [766340.png](/wallpapers/766340.png) is from 'Afterschool of the 5th Year' artbook of artist [Kantoku](https://www.pixiv.net/en/users/1565632)
+- [718203.png](/wallpapers/718203.png) was taken from [Kyouou Ena](https://www.pixiv.net/en/users/4608546) but the Pixiv link is now broken
+- [tomori.jpg](/wallpapers/tomori.jpg) is a screenshot taken from the anime [Charlotte](https://charlotte.fandom.com/wiki/Charlotte_Wiki)
+- [IMG_2193.png](/wallpapers/IMG_2193.png) is taken from 'やはり俺の青春ラブコメはまちがっている。アンソロジー 1　雪乃ｓｉｄｅ'
