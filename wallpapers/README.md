@@ -12,3 +12,4 @@ Some exceptions are listed below:
 - [718203.png](/wallpapers/718203.png) was taken from [Kyouou Ena](https://www.pixiv.net/en/users/4608546) but the Pixiv link is now broken
 - [tomori.jpg](/wallpapers/tomori.jpg) is a screenshot taken from the anime [Charlotte](https://charlotte.fandom.com/wiki/Charlotte_Wiki)
 - [IMG_2193.png](/wallpapers/IMG_2193.png) is taken from 'やはり俺の青春ラブコメはまちがっている。アンソロジー 1　雪乃ｓｉｄｅ'
+- [i159.png](/wallpapers/i159.png), [kokkoro1.jpg](/wallpapers/kokkoro1.jpg), [kokkoro2.png](/wallpapers/kokkoro2.png) are official artworks for "Princess Connect! Re:Dive" game. I got them from <https://princess-connect.fandom.com/>
