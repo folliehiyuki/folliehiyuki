@@ -1,8 +1,7 @@
 <h2 align="center">🐋 What I do on Github 🐋</h2>
 
 <p align="center">
-  <img height="280" src="images/hinata_sakuya.png" alt="hinata & sakuya"/>
-  <img height="280" src="images/git_manga.png" alt="git in manga"/>
+  <img height="320" src="images/git_manga.png" alt="git in manga"/>
 </p>
 
 <h2 align="center">🐬 Some useless stats 🐬</h2>
