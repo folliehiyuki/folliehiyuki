@@ -4,7 +4,7 @@ This directory holds wallpapers of amazing artists. It acts as a source to boots
 
 ## Original artwork
 
-Almost all the images are downloaded directly from [Pixiv](https://www.pixiv.net). You can find the artist, and also the original artwork by going to 'https://www.pixiv.net/en/artworks/{{ file name without "_p0" }}'.
+Almost all the images are downloaded directly from [Pixiv](https://www.pixiv.net). You can find the artist, and also the original artwork by going to 'https://www.pixiv.net/en/artworks/<file name without "_p0">'.
 
 Some exceptions are listed below:
 
