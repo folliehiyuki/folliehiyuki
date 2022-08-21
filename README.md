@@ -1,7 +1,7 @@
 <h2 align="center">🐋 What I do on Github 🐋</h2>
 
 <p align="center">
-  <img height="320" src="images/git_manga.png" alt="git in manga"/>
+  <img width="520" src="images/git_manga.png" alt="git in manga"/>
 </p>
 
 <h2 align="center">🐬 Some useless stats 🐬</h2>
@@ -15,5 +15,5 @@
 <h2 align="center">🐱 What you're probably thinking 🐱</h2>
 
 <p align="center">
-  <img height="280" src="images/banner.gif" alt="sighs"/>
+  <img width="520" src="images/banner.gif" alt="sighs"/>
 </p>
