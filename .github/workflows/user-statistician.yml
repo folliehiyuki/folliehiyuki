@@ -17,10 +17,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: cicirello/user-statistician@v1
         with:
-          show-border: false
           include-title: false
-          hide-keys: general, repositories, languages, private
-          colors: '#2e3440 #81a1c1 #81a1c1 #eceff4 #eceff4'
+          hide-keys: general, repositories, languages, private, contribTo
+          colors: '#2e3440 #2e3440 #81a1c1 #8fbcbb #eceff4'
           image-file: contrib-stats.svg
         env:
           GITHUB_TOKEN: ${{secrets.PAT}}
