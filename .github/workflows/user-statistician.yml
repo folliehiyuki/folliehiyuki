@@ -1,0 +1,26 @@
+name: user-statistician
+
+on:
+  schedule:
+    - cron: 0 3 * * *
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/user-statistician.yml
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cicirello/user-statistician@v1
+        with:
+          show-border: false
+          include-title: false
+          hide-keys: general, repositories, languages, private
+          colors: '#2e3440 #81a1c1 #81a1c1 #eceff4 #eceff4'
+          image-file: contrib-stats.svg
+        env:
+          GITHUB_TOKEN: ${{secrets.PAT}}

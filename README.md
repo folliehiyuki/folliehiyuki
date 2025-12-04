@@ -8,7 +8,7 @@
 
 <p align="center">
   <img width="180" src="images/kokkoro_ok.png" alt="kokkoro_ok"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FollieHiyuki&show_icons=true&hide=stars&hide_border=true&hide_rank=true&bg_color=2e3440&icon_color=a3be8c&title_color=81a1c1&text_color=eceff4" alt="FollieHiyuki's GitHub stats"/>
+  <img src="contrib-stats.svg" alt="folliehiyuki's GitHub stats"/>
   <img width="180" src="images/lumine.png" alt="lumine"/>
 </p>
 
