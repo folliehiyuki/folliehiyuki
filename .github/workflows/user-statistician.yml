@@ -14,8 +14,8 @@ jobs:
   stats:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
-      - uses: cicirello/user-statistician@v1
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v6.0.1
+      - uses: cicirello/user-statistician@d1918dd362c46c2dc1788139947224eee4fef0b8 # v1.24.2
         with:
           include-title: false
           hide-keys: general, repositories, languages, private, contribTo
